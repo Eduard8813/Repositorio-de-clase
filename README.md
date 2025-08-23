@@ -26,3 +26,32 @@ Este proyecto guía a los estudiantes en el desarrollo de una aplicación web qu
 ## 🔌 Comunicación con ESP32
 
 La ESP32 se conecta vía WiFi y envía datos mediante solicitudes HTTP (POST) al servidor Flask.
+
+# 🧠 Proyecto Educativo: Herramientas de Desarrollo Profesional
+
+Este repositorio acompaña el proceso de formación técnica en desarrollo web y backend, utilizando herramientas clave del ecosistema profesional. Aquí aprenderás a escribir código, versionarlo, colaborar en línea y gestionar bases de datos.
+
+---
+
+## 🛠 Herramientas que Vamos a Utilizar
+
+| Herramienta           | Propósito Educativo                                         |
+|-----------------------|-------------------------------------------------------------|
+| **Visual Studio Code**| Editor de código para escribir HTML, JS, Python y SQL       |
+| **Git**               | Control de versiones para registrar cambios y colaborar     |
+| **GitHub**            | Plataforma para alojar proyectos y trabajar en equipo       |
+| **MySQL**             | Base de datos relacional para almacenar información         |
+| **SQL**               | Lenguaje para consultar y modificar datos en MySQL          |
+
+---
+
+## 📚 Objetivos del Proyecto
+
+- Familiarizarse con el entorno de desarrollo profesional.
+- Aprender a versionar código y colaborar con Git y GitHub.
+- Diseñar y consultar bases de datos usando SQL y MySQL.
+- Integrar frontend y backend en proyectos educativos.
+
+---
+
+## 📁 Estructura del Repositorio
