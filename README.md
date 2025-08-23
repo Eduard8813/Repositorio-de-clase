@@ -53,5 +53,24 @@ Este repositorio acompaña el proceso de formación técnica en desarrollo web y
 - Integrar frontend y backend en proyectos educativos.
 
 ---
+## 🧭 Roadmap de Aprendizaje
 
-## 📁 Estructura del Repositorio
+Este roadmap guía el proceso educativo desde los fundamentos del desarrollo web hasta la integración con hardware y despliegue en la nube. Cada etapa incluye objetivos técnicos y pedagógicos.
+
+| Semana | Módulo                        | Tecnologías Clave                  | Objetivo Principal                                      |
+|--------|-------------------------------|------------------------------------|---------------------------------------------------------|
+| 1      | Introducción al Frontend      | HTML, CSS                          | Crear interfaces web semánticas y visuales              |
+| 2      | Interactividad con JavaScript | JavaScript, DOM                    | Manipular elementos y responder a eventos               |
+| 3      | Backend con Flask             | Python, Flask                      | Construir APIs RESTful y manejar rutas dinámicas        |
+| 4      | Base de Datos Relacional      | MySQL, SQL                         | Diseñar tablas, insertar y consultar datos              |
+| 5      | Comunicación con ESP32        | ESP32, HTTP, JSON                  | Enviar datos desde sensores al backend vía WiFi         |
+| 6      | Visualización de Datos        | JS, Chart.js, Fetch API            | Mostrar datos en tiempo real desde la base de datos     |
+| 7      | Control de Versiones          | Git, GitHub                        | Versionar código y colaborar en proyectos educativos    |
+| 8      | Despliegue en la Nube         | Render, Railway, GitHub Pages      | Publicar el proyecto y acceder desde cualquier lugar    |
+| 9      | Buenas Prácticas y Modularidad| Flask Blueprints, SQL Models       | Separar responsabilidades y mejorar mantenibilidad      |
+| 10     | Proyecto Final                | Fullstack + ESP32 + Nube           | Integrar todo en una solución funcional y educativa     |
+
+---
+
+🎯 **Tip para Mentores**: Puedes usar este roadmap como guía para diseñar retos semanales, sesiones de depuración colaborativa y espacios de reflexión técnica. Cada módulo puede incluir errores comunes como oportunidades de aprendizaje.
+
