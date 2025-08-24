@@ -52,9 +52,7 @@ La placa ESP32 se conecta vía WiFi y envía datos mediante solicitudes HTTP (PO
 - Familiarizarse con el entorno de desarrollo profesional.
 - Aprender a versionar código y colaborar con Git y GitHub.
 - Diseñar y consultar bases de datos usando SQL y MySQL.
-- Integrar frontend y backend en proyectos educativos.
 - Conectar hardware (ESP32) con software mediante APIs.
-- Desplegar el proyecto en la nube para acceso remoto.
 
 ---
 
