@@ -59,18 +59,16 @@ Este roadmap guía el proceso educativo desde los fundamentos del desarrollo web
 
 | Semana | Módulo                        | Tecnologías Clave                  | Objetivo Principal                                      |
 |--------|-------------------------------|------------------------------------|---------------------------------------------------------|
-| 1      | Introducción al Frontend      | HTML, CSS                          | Crear interfaces web semánticas y visuales              |
-| 2      | Interactividad con JavaScript | JavaScript, DOM                    | Manipular elementos y responder a eventos               |
-| 3      | Backend con Flask             | Python, Flask                      | Construir APIs RESTful y manejar rutas dinámicas        |
-| 4      | Base de Datos Relacional      | MySQL, SQL                         | Diseñar tablas, insertar y consultar datos              |
+| 1      | Control de Versiones          | Git, GitHub                        | Versionar código y colaborar en proyectos educativos    |
+| 2      | Introducción al Frontend      | HTML,                          | Crear interfaces web semánticas              |
+| 3      | Interactividad con JavaScript | JavaScript, DOM                    | Manipular elementos y responder a eventos               |
+| 4      | Backend con Flask             | Python, Flask                      | Construir APIs RESTful y manejar rutas dinámicas        |
+| 5      | Base de Datos Relacional      | MySQL, SQL                         | Diseñar tablas, insertar y consultar datos              |
 | 5      | Comunicación con ESP32        | ESP32, HTTP, JSON                  | Enviar datos desde sensores al backend vía WiFi         |
-| 6      | Visualización de Datos        | JS, Chart.js, Fetch API            | Mostrar datos en tiempo real desde la base de datos     |
-| 7      | Control de Versiones          | Git, GitHub                        | Versionar código y colaborar en proyectos educativos    |
-| 8      | Despliegue en la Nube         | Render, Railway, GitHub Pages      | Publicar el proyecto y acceder desde cualquier lugar    |
-| 9      | Buenas Prácticas y Modularidad| Flask Blueprints, SQL Models       | Separar responsabilidades y mejorar mantenibilidad      |
-| 10     | Proyecto Final                | Fullstack + ESP32 + Nube           | Integrar todo en una solución funcional y educativa     |
+| 5      | Visualización de Datos        | Fetch API                          | Mostrar datos en tiempo real desde la base de datos     |
+| 6      | Buenas Prácticas y Modularidad| Uniendo todas las tecnologias      | Separar responsabilidades y mejorar mantenibilidad      |
+| 7      | Proyecto Final                | Fullstack + ESP32 + Nube           | Integrar todo en una solución funcional y educativa     |
 
----
 
 🎯 **Tip para Mentores**: Puedes usar este roadmap como guía para diseñar retos semanales, sesiones de depuración colaborativa y espacios de reflexión técnica. Cada módulo puede incluir errores comunes como oportunidades de aprendizaje.
 
