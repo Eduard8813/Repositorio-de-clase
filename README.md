@@ -26,7 +26,7 @@ Este proyecto guía, tiene como propocito ayudar a los estudiantes en el desarro
 ## 🔌 Comunicación con ESP32
 
 La ESP32 se conecta vía WiFi y envía datos mediante solicitudes HTTP (POST) al servidor Flask.
-
+---
 # 🧠 Proyecto Educativo: Herramientas de Desarrollo Profesional
 
 Este repositorio acompaña el proceso de formación técnica en desarrollo web y backend, utilizando herramientas clave del ecosistema profesional. Aquí aprenderás a escribir código, versionarlo, colaborar en línea y gestionar bases de datos.
@@ -68,3 +68,4 @@ Este roadmap guía el proceso educativo desde los fundamentos del desarrollo web
 | 7      | Visualización de Datos        | Fetch API                          | Mostrar datos en tiempo real desde la base de datos     |
 | 8 y en adelante      | Buenas Prácticas y Modularidad| Uniendo todas las tecnologias      | Separar responsabilidades y mejorar mantenibilidad      |
 | 13      | Proyecto Final                | Fullstack + ESP32 + Nube           | Integrar todo en una solución funcional y educativa     |
+---
