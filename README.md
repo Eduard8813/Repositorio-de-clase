@@ -1,6 +1,6 @@
 # 🌐 Proyecto Educativo: Comunicación ESP32 ↔ Backend ↔ Nube
 
-Este proyecto guía, tiene como propocito ayudar a los estudiantes en el desarrollo de una aplicación web que se comunica con una placa ESP32, almacena datos en una base de datos MySQL y los visualiza desde la nube. Se enseñan fundamentos de frontend, backend y arquitectura de sistemas conectados.
+Este proyecto guía, tiene como propocito ayudar a los estudiantes en el desarrollo de una aplicación web que se comunica con una placa ESP32, almacena datos en una base de datos MySQL o SQL y los visualiza desde la nube. Se enseñan fundamentos de frontend, backend y arquitectura de sistemas conectados.
 
 ---
 
