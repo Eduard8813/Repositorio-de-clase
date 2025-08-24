@@ -63,7 +63,7 @@ Este roadmap guía el proceso educativo desde los fundamentos del desarrollo web
 | Semana | Módulo                        | Tecnologías Clave                  | Objetivo Principal                                      |
 |--------|-------------------------------|------------------------------------|---------------------------------------------------------|
 | 3      | Control de Versiones          | Git, GitHub                        | Versionar código y colaborar en proyectos educativos    |
-| 3      | Introducción al Frontend      | HTML, CSS                          | Crear interfaces web semánticas y visuales              |
+| 3      | Introducción al Frontend      | HTML                               | Crear interfaces web semánticas                         |
 | 4      | Interactividad con JavaScript | JavaScript, DOM                    | Manipular elementos y responder a eventos               |
 | 5      | Backend con Flask             | Python, Flask                      | Construir APIs RESTful y manejar rutas dinámicas        |
 | 6      | Base de Datos Relacional      | MySQL, SQL                         | Diseñar tablas, insertar y consultar datos              |
