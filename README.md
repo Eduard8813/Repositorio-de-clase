@@ -27,10 +27,6 @@ Este repositorio acompaña el proceso de formación técnica en desarrollo web y
 ### 🔄 Control de Versiones
 - **Git**: Seguimiento de cambios y colaboración.
 - **GitHub**: Repositorio remoto del proyecto.
-
-### ☁️ Despliegue en la Nube
-- **Render / Railway / GitHub Pages**: Publicación del proyecto para acceso global.
-
 ---
 
 ## 🔌 Comunicación con ESP32
