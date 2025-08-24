@@ -31,7 +31,7 @@ Este repositorio acompaña el proceso de formación técnica en desarrollo web y
 
 ## 🔌 Comunicación con ESP32
 
-La placa ESP32 se conecta vía WiFi y envía datos mediante solicitudes HTTP (POST) al servidor Flask. Estos datos se almacenan en una base de datos relacional y luego se visualizan desde el frontend mediante consultas a la API.
+La placa ESP32 se conecta vía WiFi y envía datos mediante solicitudes HTTP (POST O GET) al servidor Flask. Estos datos se almacenan en una base de datos relacional y luego se visualizan desde el frontend mediante consultas a la API.
 
 ---
 
