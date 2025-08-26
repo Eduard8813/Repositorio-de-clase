@@ -62,14 +62,14 @@ Este roadmap guía el proceso educativo desde los fundamentos del desarrollo web
 
 | Semana | Módulo                        | Tecnologías Clave                  | Objetivo Principal                                      |
 |--------|-------------------------------|------------------------------------|---------------------------------------------------------|
-| 3      | Control de Versiones          | Git, GitHub                        | Versionar código y colaborar en proyectos educativos    |
-| 3      | Introducción al Frontend      | HTML                               | Crear interfaces web semánticas                         |
-| 4      | Interactividad con JavaScript | JavaScript, DOM                    | Manipular elementos y responder a eventos               |
-| 5      | Backend con Flask             | Python, Flask                      | Construir APIs RESTful y manejar rutas dinámicas        |
-| 6      | Base de Datos Relacional      | MySQL, SQL                         | Diseñar tablas, insertar y consultar datos              |
+| 4      | Control de Versiones          | Git, GitHub                        | Versionar código y colaborar en proyectos educativos    |
+| 4      | Introducción al Frontend      | HTML                               | Crear interfaces web semánticas                         |
+| 5      | Interactividad con JavaScript | JavaScript, DOM                    | Manipular elementos y responder a eventos               |
+| 6      | Backend con Flask             | Python, Flask                      | Construir APIs RESTful y manejar rutas dinámicas        |
+| 7      | Base de Datos Relacional      | MySQL, SQL                         | Diseñar tablas, insertar y consultar datos              |
 | 7      | Comunicación con ESP32        | ESP32, HTTP, JSON                  | Enviar datos desde sensores al backend vía WiFi         |
-| 7      | Visualización de Datos        | Fetch API                          | Mostrar datos en tiempo real desde la base de datos     |
-| 8 en adelante      | Buenas Prácticas y Modularidad| Tecnologia enseñada    | Separar responsabilidades y mejorar mantenibilidad      |
+| 8      | Visualización de Datos        | Fetch API                          | Mostrar datos en tiempo real desde la base de datos     |
+| 9 en adelante      | Buenas Prácticas y Modularidad| Tecnologia enseñada    | Separar responsabilidades y mejorar mantenibilidad      |
 | 13     | Proyecto Final                | Fullstack + ESP32 + Nube           | Integrar todo en una solución funcional y educativa     |
 
 ---
