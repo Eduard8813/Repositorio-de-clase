@@ -1,0 +1,43 @@
+¿Qué es el html?
+R: HTML son las siglas en inglés de HyperText Markup Lenguage, que significa Lenguaje de Marcado de 
+HiperTexto. Se llama así al lenguaje de programación empleado en la elaboración de páginas Web, y 
+que sirve como estándar de referencia para la codificación y estructuración de las mismas, a través 
+de un código del mismo nombre (html).
+
+¿Cómo funciona el html?
+R: El lenguaje html opera en base a marcadores escritos (que aparecen entre comillas angulares: <html>),
+a partir de las cuales se cifra la apariencia y orden interno de una página web, así como los scripts o 
+rutinas que operan dentro de ellas. Dicho código fuente hace de ADN de la página Web, diciéndole al 
+navegador de dónde obtener los recursos para su representación y en qué orden, secuencia y modo 
+establecerlos. Y siguiendo el código al pie de la letra, el navegador nos brinda la experiencia de la 
+navegación Web.
+
+Para ello html opera en base a un conjunto de componentes, como son:
+
+Elementos. Los ladrillos básicos del lenguaje html, sirven para representar el contenido y sus atributos,
+así como marcar los parámetros del propio lenguaje, como el punto de inicio de la cadena de comandos y 
+el punto de cierre, o las necesidades especiales.
+
+Atributos. Las especificaciones respecto a valor, color, posición, etc. de los elementos incorporados 
+en el código. Por lo general consisten en una serie de instrucciones lógicas o numéricas.
+
+¿Qué es Git?
+Git es un sistema de control de versiones distribuido. Esto significa que no hay un servidor central que 
+almacene todos los cambios en el código. En cambio, cada desarrollador tiene una copia completa del 
+código y puede realizar cambios en su propia copia.
+
+Para qué sirve Git
+Git se utiliza para una variedad de propósitos, incluyendo:
+
+Seguimiento de cambios en el código: Git permite a los desarrolladores rastrear los cambios en el código
+a lo largo del tiempo. Esto puede ser útil para identificar problemas, realizar rollbacks y comparar 
+versiones diferentes del código.
+
+Colaboración: Git facilita la colaboración en proyectos de software. Los desarrolladores pueden trabajar 
+en diferentes ramas del código al mismo tiempo y luego fusionar sus cambios para crear una versión final.
+
+Revisión de código: Git se puede utilizar para la revisión de código. Los desarrolladores pueden 
+compartir sus cambios con otros desarrolladores para obtener comentarios.
+
+Automatización: Git se puede utilizar para automatizar tareas, como la construcción de software y la 
+distribución de actualizaciones.
