@@ -1,0 +1,17 @@
+git init:crea un nuevo repositorio en tu proyecto local.
+
+git add . :para preparar todos los archivos modificados o git add <nombre del archivo> si solo quieres incluir uno específico.
+
+git commit -m "Comentario": guarda esos cambios con un mensaje descriptivo.
+
+Si ya tienes un repositorio remoto, puedes conectarte y enviar tus commits usando git push o git push origin main,
+
+si necesitas traer los cambios más recientes desde ese repositorio remoto, usas git pull o git pull origin main.
+
+Si estás comenzando desde un repositorio existente, puedes clonarlo con git clone <URL>.
+
+Para integrar cambios de otra rama, usas git merge <rama>
+
+si quieres cambiar de rama o crear una nueva.git checkout <rama> y git branch <nombre> respectivamente.
+
+git status te muestra el estado actual del repositorio: qué archivos han cambiado, cuáles están listos para ser confirmados y si hay conflictos pendientes.
