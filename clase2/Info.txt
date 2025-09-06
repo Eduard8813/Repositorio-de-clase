@@ -1,0 +1,113 @@
+Variables:
+var: forma antigua, puede redeclararse y tiene alcance de función.
+
+let: moderna, puede reasignarse pero no redeclararse, con alcance de bloque.
+
+const: constante, no puede reasignarse ni redeclararse, también con alcance de bloque.
+
+Tipos de datos:
+Primitivos: string, number, boolean, undefined, null, symbol, bigint
+
+Estructurados: object, array, function
+
+Operadores:
+Tipos:
+Aritméticos:
++, -, *, /, %, ** → suma, resta, multiplicación, división, módulo, potencia
+
+Lógicos:
+&& (AND), || (OR), ! (NOT) → combinan condiciones booleanas
+
+🧪 Comparación:
+== igual sin tipo
+
+=== igual con tipo (recomendado)
+
+!=, !== → desigualdad
+
+>, <, >=, <= → mayor, menor, etc.
+
+Estructuras de Control:
+
+¿Qué son?
+Son bloques que permiten tomar decisiones o repetir acciones según condiciones.
+
+Condicionales:
+if / else: ejecutan código según si una condición es verdadera o falsa.
+
+switch: evalúa múltiples casos según el valor de una variable.
+
+Bucles:
+for: repite un bloque un número definido de veces.
+
+while: repite mientras una condición sea verdadera.
+
+Funciones y eventos:
+Declaración y uso de funciones
+¿Qué son?
+Las funciones son bloques de código reutilizable que ejecutan una tarea específica cuando se invocan.
+
+Funciones flecha (=>)
+¿Qué son?
+Son una forma moderna y concisa de declarar funciones.
+No tienen su propio this, lo que las hace ideales para callbacks.
+
+Eventos del DOM
+¿Qué son?
+Son acciones que ocurren en la interfaz (clicks, cambios, teclas, etc.) y
+que podemos capturar para ejecutar funciones.
+
+Arrays y objetos:
+¿Qué es un array?
+Es una colección ordenada de elementos, como una lista. Cada elemento tiene una posición (índice) 
+que comienza en 0.
+
+Objetos literales y acceso a propiedades
+¿Qué es un objeto?
+Es una estructura que agrupa datos relacionados en forma de pares clave-valor.
+
+Métodos útiles para arrays:
+push → agrega al final
+pop → elimina el último
+filter → filtra según condición
+reduce → reduce a un solo valor
+
+setTimeout y setInterval
+¿Qué son?
+Son funciones nativas que permiten ejecutar código después de un tiempo (setTimeout) o 
+de forma repetida cada cierto intervalo (setInterval).
+
+Promesas (Promise)
+¿Qué son?
+Son objetos que representan una operación asincrónica que puede completarse o fallar en el futuro.
+
+Estados:
+pending → en espera
+fulfilled → completada con éxito
+rejected → falló
+
+async/await
+¿Qué son?
+Son palabras clave modernas que permiten escribir código asincrónico de forma más clara y secuencial.
+
+Manejo de errores (try/catch)
+¿Qué es?
+Es una estructura que permite capturar y manejar errores sin que el programa se detenga abruptamente.
+
+¿Qué es el consumo de APIs?
+Es el proceso de conectarse con servicios externos (como bases de datos, servidores o plataformas)
+para obtener o enviar información. Es la forma en que tu aplicación se comunica con el mundo real.
+
+fetch() para obtener datos
+¿Qué es?
+Es una función nativa de JavaScript que permite hacer peticiones HTTP (GET, POST, etc.) de 
+forma asincrónica.
+
+Mostrar resultados en el DOM
+¿Qué es el DOM?
+Es la estructura del documento HTML que podemos modificar desde JavaScript para mostrar datos dinámicos.
+
+Validar respuestas y manejar errores
+¿Por qué es importante?
+Porque no todas las respuestas son exitosas. Debemos verificar que la respuesta sea válida y
+capturar errores para evitar fallos silenciosos.
