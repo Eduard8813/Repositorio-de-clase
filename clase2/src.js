@@ -28,16 +28,16 @@
 
         // Panel de salida
         let salida = `
-        📧 Email: ${email}
-        🔒 Contraseña: ${password}
-        📝 Texto: ${texto}
-        📱 Número: ${numero}
-        📅 Fecha: ${fecha}
-        ⏰ Hora: ${hora}
-        ✅ Términos aceptados: ${check}
-        🎯 Opción seleccionada: ${opcionSeleccionada}
-        📂 Archivo: ${archivo ? archivo.name : "No se seleccionó archivo"}
-        📊 Nivel: ${nivel}
+        Email: ${email}
+        Contraseña: ${password}
+        Texto: ${texto}
+        Número: ${numero}
+        Fecha: ${fecha}
+        Hora: ${hora}
+        Términos aceptados: ${check}
+        Opción seleccionada: ${opcionSeleccionada}
+        Archivo: ${archivo ? archivo.name : "No se seleccionó archivo"}
+        Nivel: ${nivel}
         `;
 
         document.getElementById("resultado").innerText = salida;
