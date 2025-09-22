@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html con javascript</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h2>Formulario para usuarios.</h2>
+
+    <form id = FormularioUsuarios>
+        <input type="text" id = "textos" placeholder="Ingrese un dato">
+        <input type="password" id = "password" placeholder="Ingrese su contraseña">
+        <input type="email" id="email" placeholder="Ingrese su email">
+        <input type="number" id="numero" placeholder="Ingrese un numero">
+        <input type="date" id="fecha">
+        <input type="time" id="hora">
+        <input type="checkbox" id="check"> Acepto terminos y condiciones
+        <br>
+        <label> Opciones</label>
+        <input type="radio" name="opciones" value="opcion1"> Opcion 1
+        <input type="radio" name="opciones" value="opcion2"> Opcion 2
+        <input type="radio" name="opciones" value="opcion3"> Opcion 3
+        
+        <input type="file" id="archivo">
+
+        <label for="range"> Nivel:</label>
+        <input type="range" id="range" min="1" max="5">
+
+        <button type="button" onclick="enviarFormulario()">Enviar</button>
+        </form>
+
+        <div class="output" id="resultado"></div>
+
+        <script src="src.js"></script>
+</body>
+</html>
