@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Envio atraves de un fetch</title>
+</head>
+<body>
+    <form id="Envio">
+        <input type="text" name="usuario" id="username" placeholder="Ingrese su usuario">
+        <input type="password" name="password" id="password" placeholder="Ingrese su contraseña">
+        <button type="submit">Enviar</button>
+    </form>
+
+    <div id="resultado"></div>
+
+
+    <script>
+        document.getElementById("Envio").addEventListener("submit", function(event){
+
+            event.preventDefault();
+
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value
+
+            fetch("https://frontend-y-backend-por-separados.onrender.com/backend/login" ,{
+                method:"POST",
+                headers:{
+                    "Content-Type":"application/json"
+                },
+                body: JSON.stringify({username, password})
+            })
+
+            .then(response => response.json())
+            .then(data =>{
+                document.getElementById("resultado").innerText = "Respuesta" + JSON.stringify(data);
+                console.log("Autenticacion exitosa", data);
+            })
+
+            .catch(error => {
+                document.getElementById("resultado").innerText = "Error" + error;
+                console.error("Error en autenticacion:", error);
+            });
+        });
+
+
+            fetch("https://frontend-y-backend-por-separados.onrender.com/backend/usuarios", {
+                method:"GET"
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("resultado").innerText = "Respuesta: \n" + JSON.stringify(data)
+                console.log("autenticado", data);
+            })
+
+            .catch(error => {
+                document.getElementById("resultado").innerText = "ERROR" + error;
+                console.log("Error", error);    
+            })
+    </script>
+</body>
+</html>
